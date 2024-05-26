@@ -7,42 +7,42 @@ subtitle:
 # Instructor
 ---------------------------------------------------------------------------------
 
-## Montana State University, Bozeman, MT, USA
+### Montana State University, Bozeman, MT, USA
 
-### Summer 2024
+#### Summer 2024
 - STAT 216 - Introduction to Statistics
 
 
 # Teaching Assistant  
 ----------------------------------------------------------------------------------
 
-## Montana State University, Bozeman, MT, USA
+### Montana State University, Bozeman, MT, USA
 
-### Fall 2023
+#### Fall 2023
 - STAT 337 – Intermediate Statistics with R
 
-### Spring 2023
+#### Spring 2023
 - STAT 216 – Introduction to statistics
 
-### Fall 2022
+#### Fall 2022
 - STAT 216 – Introduction to statistics
 
 
-## Kwame Nkrumah University of Science and Technology, Kuamsi, Ghana
+### Kwame Nkrumah University of Science and Technology, Kuamsi, Ghana
 
-### Spring 2022
+#### Spring 2022
 - STAT 371 - Regression Analysis
 
-### Fall 2021
+#### Fall 2021
 - STAT 153 - Statistical Methods I
 
 
 # Tutor
 ---------------------------------------------------------------------------
 
-## Montana State University, Bozeman, MT, USA
+### Montana State University, Bozeman, MT, USA
 
-### Fall 2022
+#### Fall 2022
 - Math and Stat learning center (MSC)
 
 
