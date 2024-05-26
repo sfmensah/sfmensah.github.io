@@ -4,7 +4,7 @@ title: Teaching
 subtitle: 
 ---
 
-## Graduate Teaching Assistant at Montana Stata University
+## Graduate Teaching Assistant at Montana State University
 ----------------------------------------------------------------------------------
 
 ### Summer 2024

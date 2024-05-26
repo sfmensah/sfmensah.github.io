@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Publications
+subtitle: 
 ---
 
-### About Me
+- Odoom, C., Boateng, A., Mensah, S. F., & Maposa, D. (2024). [Modeling of the daily dynamics in bike rental system using weather and calendar conditions: A semi-parametric approach](https://www.sciencedirect.com/science/article/pii/S2468227624001571). Scientific African, 24, e02211.
 
-Sarah Mensah is from Ghana, West Africa. She earned her B.S in Actuarial Science from Kwame Nkrumah University of Science and Tecnology, Ghana in 2021. Sarah graduated with an M.S. in Statistics from Montana State University in Spring 2024 and is set to begin her doctoral studies in Statistics in Fall 2024. 
 
-Sarah's research interests include dimensionality reduction techniques for high dimensional data, particularly in health-related applications, as well as regression modeling and machine learning. In her free time, she enjoys cooking, biking and playing chess.
+- Boateng, A., Odoom, C., Mensah, E. T., Fobi, S. M., & Maposa, D. (2023). [Predictive Analysis of Misuse of Alcohol and Drugs using Machine Learning Algorithms: The Case of using an Imbalanced Dataset from South Africa](https://www.naturalspublishing.com/files/published/862z9t3t87hmac.pdf). Appl. Math, 17(2), 261-271.
 
