@@ -1,12 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Teaching
+subtitle: 
 ---
 
-### About Me
+## Graduate Teaching Assistant at Montana Stata University
+----------------------------------------------------------------------------------
 
-Sarah Mensah is from Ghana, West Africa. She earned her B.S in Actuarial Science from Kwame Nkrumah University of Science and Tecnology, Ghana in 2021. Sarah graduated with an M.S. in Statistics from Montana State University in Spring 2024 and is set to begin her doctoral studies in Statistics in Fall 2024. 
+### Summer 2024
+- STAT 216 -Introduction to Statistics
 
-Sarah's research interests include dimensionality reduction techniques for high dimensional data, particularly in health-related applications, as well as regression modeling and machine learning. In her free time, she enjoys cooking, biking and playing chess.
+### Fall 2023
+- STAT 337 – Intermediate Statistics with R
+
+### Spring 2023
+- STAT 216 – Introduction to statistics
+
+### Fall 2022
+- STAT 216 – Introduction to statistics
+
+
 
