@@ -4,6 +4,27 @@ title: Background
 subtitle: 
 ---
  
+## Work Experience
+----------------------------------------------------------------------------
+
+#### Instructor (May 2024 - present)
+- Montana State University, Bozeman, MT, USA
+
+#### Graduate Research Assistant (January 2024 - May 2024)
+- Montana State University, Bozeman, MT, USA
+
+#### Graduate Teaching Assistant (August 2022 - December 2023)
+- Montana State University, Bozeman, MT, USA
+
+#### Undergraduate Teaching Assistant (October 2021 - July 2022)
+- Kwame Nkrumah University of Science and Technology, Kumasi, Ghana
+
+#### Data Analytics Intern (August 2020)
+- KPMG, Australia
+
+#### Insurance Intern (June 2019 - July 2019)
+- Glico General Insurance
+
 
 ## Education
 --------------------------------------------------------------------------
