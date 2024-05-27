@@ -6,7 +6,7 @@ use-site-title: true
 order: 1
 ---
 
-<img align="right" src="/images/prof_pic.jpg" alt="" width="270">
+<img align="right" src="/images/prof_pic.jpg" alt="" width="300">
 
 ### About Me:
 
