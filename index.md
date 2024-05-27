@@ -6,7 +6,12 @@ use-site-title: true
 order: 1
 ---
 
+<p>
+
 <img align="right" src="/images/prof_pic.jpg" alt="" width="320">
+<em>office</em>
+
+</p>
 
 
 ### About Me:
