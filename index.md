@@ -7,7 +7,7 @@ order: 1
 ---
 
 <p>
-<img align="right" src="/images/prof_pic.jpg" alt="" width="320">
+<img align="right" src="/images/prof_pic.jpg" alt="Alt text" width="320">
 <em>office</em>
 </p>
 
