@@ -3,11 +3,10 @@ layout: page
 title: Background
 subtitle: 
 ---
-
-
+ 
 
 ## Education
-------------------------------------------------
+--------------------------------------------------------------------------
 
 #### Ph.D. Statistics (August 2024)
 - Montana State University, Bozeman, MT, USA
