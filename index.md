@@ -6,10 +6,10 @@ use-site-title: true
 order: 1
 ---
 
-<p>
+<figure>
 <img align="right" src="/images/prof_pic.jpg" alt="Alt text" width="320">
-<em>office</em>
-</p>
+<figcaption>office address</figcaption>
+</figure>
 
 
 ### About Me:
