@@ -6,10 +6,8 @@ use-site-title: true
 order: 1
 ---
 
-<figure>
-<img align="right" src="/images/prof_pic.jpg" alt="Alt text" width="320">
-<figcaption>office address</figcaption>
-</figure>
+
+<img align="right" src="/images/prof_pic.jpg" alt="" width="320">
 
 
 ### About Me:
@@ -23,6 +21,16 @@ Montana State University in Spring 2024 and is set to begin her doctoral studies
 Sarah's research interests include dimensionality reduction techniques for high dimensional data, particularly 
 in health-related applications, as well as regression modeling and machine learning. In her free time, she enjoys
  cooking, biking and playing chess.
+
+
+### Contact:
+
+**Email**: sarahmensah@montana.edu
+
+**Office**: 1-136 Wilson Hall
+            Department of Mathematical Sciences 
+            Montana State University
+            Bozeman, MT 59717-2400
 
 
 
