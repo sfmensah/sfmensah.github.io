@@ -28,7 +28,7 @@ in health-related applications, as well as regression modeling and machine learn
 **Email**: sarahmensah@montana.edu
 
 **Office**: 1-136 Wilson Hall\\
-            Department of Mathematical Sciences\\ 
+            Department of Mathematical Sciences \\ 
             Montana State University\\
             Bozeman, MT 59717-2400
 
