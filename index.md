@@ -6,8 +6,8 @@ use-site-title: true
 order: 1
 ---
 
-<img align="right" src="/images/prof_pic.jpg" alt="" width="300">
-<p>555 your office number</p>
+<img align="right" src="/images/prof_pic.jpg" alt="" width="300" style="float:right; margin-left:10px;">
+<p style="clear:both;">555 your office number</p>
 <p>123 your address street</p>
 <p>Your City, State 12345</p>
 
