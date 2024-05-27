@@ -23,7 +23,7 @@ subtitle:
 - KPMG, Australia
 
 #### Insurance Intern (June 2019 - July 2019)
-- Glico General Insurance
+- Glico General Insurance, Kumasi, Ghana
 
 
 ## Education
