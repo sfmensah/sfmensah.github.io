@@ -9,7 +9,6 @@ order: 1
 
 <img align="right" src="/images/prof_pic.jpg" alt="" width="320">
 
-<link rel="icon" href="images/prof_pic3.PNG" type="image/PNG">
 
 ### About Me:
 
