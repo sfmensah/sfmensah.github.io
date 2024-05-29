@@ -8,7 +8,7 @@ order: 1
 
 
 <img align="right" src="/images/prof_pic.jpg" alt="" width="320">
-
+<link rel="shortcut icon" type="image/x-icon" href="/images/prof_pic.jpg">
 
 ### About Me:
 
