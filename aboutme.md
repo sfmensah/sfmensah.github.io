@@ -29,7 +29,7 @@ subtitle:
 ## Education
 --------------------------------------------------------------------------
 
-#### Ph.D. Statistics (August 2024)
+#### Ph.D. Statistics (expected 2028)
 - Montana State University, Bozeman, MT, USA
 - Advisor: [Dr. Mark Greenwood](https://www.math.montana.edu/directory/faculty/1524138/mark-greenwood)
 
