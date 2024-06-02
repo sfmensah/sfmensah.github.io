@@ -26,9 +26,9 @@ navbar-links:
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
   Publications: "publications"
-  Resume/CV: 
-  - Resume: "SMensah_resume.pdf"
-  - CV: "SMensah_cv.pdf"
+  Resume/CV: "SMensah_resume.pdf"
+  #- Resume: "SMensah_resume.pdf"
+  #- CV: "SMensah_cv.pdf"
   Teaching: "teaching"
   Service: "service"
 
