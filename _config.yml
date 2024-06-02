@@ -22,11 +22,13 @@ author: Sarah Mensah
 navbar-links:
   Background: "aboutme"
   #Resources:
-    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
   Publications: "publications"
-  CV: "SMensah.pdf"
+  Resume/CV: 
+  - Resume: "SMensah_resume.pdf"
+  - CV: "SMensah_cv.pdf"
   Teaching: "teaching"
   Service: "service"
 
