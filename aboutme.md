@@ -7,7 +7,7 @@ subtitle:
 ## Work Experience
 ----------------------------------------------------------------------------
 
-#### Graduate Research Assistant (January 2024 - May 2024)
+#### Graduate Research Assistant (December 2023 - May 2024)
 - Montana State University, Bozeman, MT, USA
 
 #### Statistical Consultant (January 2024 - May 2024)
