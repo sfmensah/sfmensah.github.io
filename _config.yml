@@ -80,7 +80,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: 0009000803737979
+  ORCID: 0009000803737979
   google-scholar: 73ULEbgAAAAJ
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
