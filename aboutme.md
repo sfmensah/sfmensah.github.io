@@ -7,6 +7,9 @@ subtitle:
 ## Work Experience
 ----------------------------------------------------------------------------
 
+#### Graduate Teaching Assistant (August 2024 - present)
+- Montana State University, Bozeman, MT, USA
+
 #### Graduate Research Assistant (December 2023 - May 2024)
 - Montana State University, Bozeman, MT, USA
 
