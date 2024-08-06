@@ -18,8 +18,11 @@ subtitle:
 
 #### Montana State University, Bozeman, MT, USA
 
+#### Fall 2024
+- STAT 337 – Intermediate Statistics with Computing
+
 #### Fall 2023
-- STAT 337 – Intermediate Statistics with R
+- STAT 337 – Intermediate Statistics with Computing
 
 #### Spring 2023
 - STAT 216 – Introduction to statistics
