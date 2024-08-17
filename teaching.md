@@ -4,13 +4,6 @@ title: Teaching
 subtitle: 
 ---
 
-## Instructor
----------------------------------------------------------------------------------
-
-#### Montana State University, Bozeman, MT, USA
-
-#### Summer 2024
-- STAT 216 - Introduction to Statistics
 
 
 ## Teaching Assistant  
@@ -38,6 +31,15 @@ subtitle:
 
 #### Fall 2021
 - STAT 153 - Statistical Methods I
+
+
+## Instructor
+---------------------------------------------------------------------------------
+
+#### Montana State University, Bozeman, MT, USA
+
+#### Summer 2024
+- STAT 216 - Introduction to Statistics
 
 
 ## Tutor
