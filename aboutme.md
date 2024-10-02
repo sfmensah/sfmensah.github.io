@@ -7,6 +7,9 @@ subtitle:
 ## Work Experience
 ----------------------------------------------------------------------------
 
+#### Graduate Resaercher (August 2024 - present)
+- Montana State University, Bozeman, MT, USA
+
 #### Graduate Teaching Assistant (August 2024 - present)
 - Montana State University, Bozeman, MT, USA
 
