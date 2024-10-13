@@ -30,7 +30,7 @@ navbar-links:
   #- Resume: "SMensah_resume.pdf"
   #- CV: "SMensah_cv.pdf"
   Teaching: "teaching"
-  Service: "service"
+  Affiliation: "service"
 
 ################
 # --- Logo --- #
