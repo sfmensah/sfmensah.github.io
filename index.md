@@ -19,7 +19,7 @@ Montana State University in Spring 2024 and is currently pursuing her doctoral s
 
 
 Sarah's research interests include dimensionality reduction techniques for high dimensional data, particularly 
-in health-related applications, biostatistics, regression modeling and machine learning. In her free time, she enjoys
+in health-related applications, biostatistics, regression modeling, functional data analysis and machine learning. In her free time, she enjoys
  cooking, biking and playing chess.
 
 
