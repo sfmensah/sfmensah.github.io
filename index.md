@@ -18,8 +18,8 @@ University of Science and Tecnology, Ghana in 2021. Sarah graduated with an M.S.
 Montana State University in Spring 2024 and is currently pursuing her doctoral studies in statistics.
 
 
-Sarah's research interests include dimensionality reduction techniques for high dimensional data, particularly 
-in health-related applications, biostatistics, regression modeling, functional data analysis and machine learning. In her free time, she enjoys
+Sarah's research interests include analysis of high dimensional data, particularly 
+in health-related applications, biostatistics, functional data analysis, regression modeling and machine learning. In her free time, she enjoys
  cooking, biking and playing chess.
 
 
