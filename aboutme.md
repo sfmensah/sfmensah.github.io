@@ -7,29 +7,27 @@ subtitle:
 ## Work Experience
 ----------------------------------------------------------------------------
 
-#### Graduate Researcher (August 2024 - present)
-- Montana State University, Bozeman, MT, USA
+#### Montana State University, Bozeman, MT, USA
 
-#### Graduate Teaching Assistant (August 2024 - present)
-- Montana State University, Bozeman, MT, USA
+- Graduate Researcher (August 2024 - present)
 
-#### Graduate Research Assistant (December 2023 - May 2024)
-- Montana State University, Bozeman, MT, USA
+- Graduate Teaching Assistant (August 2024 - present)
 
-#### Statistical Consultant (January 2024 - May 2024)
-- Montana State University, Bozeman, MT, USA
+- Graduate Research Assistant (December 2023 - May 2024)
 
-#### Graduate Teaching Assistant (August 2022 - December 2023)
-- Montana State University, Bozeman, MT, USA
+- Statistical Consultant (January 2024 - May 2024)
 
-#### Undergraduate Teaching Assistant (October 2021 - July 2022)
-- Kwame Nkrumah University of Science and Technology, Kumasi, Ghana
+- Graduate Teaching Assistant (August 2022 - December 2023)
 
-#### Data Analytics Intern (August 2020)
-- KPMG, Australia
 
-#### Insurance Intern (June 2019 - July 2019)
-- Glico General Insurance, Kumasi, Ghana
+####  Kwame Nkrumah University of Science and Technology, Kumasi, Ghana
+- Undergraduate Teaching Assistant (October 2021 - July 2022)
+
+#### KPMG, Australia
+- Data Analytics Intern (August 2020)
+
+#### Glico General Insurance, Kumasi, Ghana
+- Insurance Intern (June 2019 - July 2019)
 
 
 ## Education
