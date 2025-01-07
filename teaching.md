@@ -11,6 +11,9 @@ subtitle:
 
 #### Montana State University, Bozeman, MT, USA
 
+#### Spring 2025
+- STAT 337 – Intermediate Statistics with Computing
+
 #### Fall 2024
 - STAT 337 – Intermediate Statistics with Computing
 
