@@ -41,7 +41,7 @@ subtitle:
 
 #### Montana State University, Bozeman, MT, USA
 
-#### Summer 2024
+#### Summer 2024 and Summer 2025
 - STAT 216 - Introduction to Statistics
 
 
