@@ -11,6 +11,9 @@ subtitle:
 
 #### Montana State University, Bozeman, MT, USA
 
+#### Fall 2025
+- STAT 216 – Introduction to statistics
+
 #### Spring 2025
 - STAT 337 – Intermediate Statistics with Computing
 

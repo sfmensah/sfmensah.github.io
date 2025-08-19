@@ -4,6 +4,9 @@ title: Publications
 subtitle: 
 ---
 
+- Myers, E., Brahmachary, P., **Mensah, S.**, Putnam, C., Carlson, R. P., Greenwood, M., & June, R. K. (2025). [Chondrocytes embedded in agarose generate distinct metabolic heat profiles based on media carbon sources](https://link.springer.com/article/10.1007/s10439-025-03755-6). Annals of Biomedical Engineering, 1-9.
+
+
 - Odoom, C., Boateng, A., **Mensah, S. F.**, & Maposa, D. (2024). [Modeling of the daily dynamics in bike rental system using weather and calendar conditions: A semi-parametric approach](https://www.sciencedirect.com/science/article/pii/S2468227624001571). Scientific African, 24, e02211.
 
 
