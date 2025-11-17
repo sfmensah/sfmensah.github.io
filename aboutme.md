@@ -7,6 +7,9 @@ subtitle:
 ## Work Experience
 ----------------------------------------------------------------------------
 
+#### Institute for Mathematical and Statistical Innovation, Chicago, Illinois
+- Data Science Bootcamp Participant (June 2025)
+
 #### Montana State University, Bozeman, MT, USA
 
 - Graduate Researcher (August 2024 - present)
