@@ -11,6 +11,9 @@ subtitle:
 
 #### Montana State University, Bozeman, MT, USA
 
+#### Spring 2026
+- STAT 411 Methods for Data Analysis I
+
 #### Fall 2025
 - STAT 216 – Introduction to statistics
 
